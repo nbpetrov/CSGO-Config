@@ -1,6 +1,29 @@
 # CSGO-Config
 
-### Configuration structure
+### File structure
 
-cfg/autoexec.cfg
--->cfg/custom/marterexec.cfg
+* cfg/autoexec.cfg
+  +   cfg/custom/marterexec.cfg
+    +  cfg/custom/marterexec.cfg
+  +   cfg/custom/marterexec.cfg
+  +   cfg/custom/marterexec.cfg
+  +   cfg/custom/marterexec.cfg
+  +   cfg/custom/marterexec.cfg
+  +   cfg/custom/marterexec.cfg
+  +   cfg/custom/marterexec.cfg
+  +   cfg/custom/marterexec.cfg
+  +   cfg/custom/marterexec.cfg
+  +   cfg/custom/marterexec.cfg
+  +   cfg/custom/marterexec.cfg
+  +   cfg/custom/marterexec.cfg
+  +   cfg/custom/marterexec.cfg
+  +   cfg/custom/marterexec.cfg
+  +   cfg/custom/marterexec.cfg
+  +   cfg/custom/marterexec.cfg
+  +   cfg/custom/marterexec.cfg
+  +   cfg/custom/marterexec.cfg
+  +   cfg/custom/marterexec.cfg
+  +   cfg/custom/marterexec.cfg
+  +   cfg/custom/marterexec.cfg
+  +   cfg/custom/marterexec.cfg
+  +   cfg/custom/marterexec.cfg
